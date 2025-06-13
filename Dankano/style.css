@@ -1,0 +1,47 @@
+body{margin: 0px;
+     padding: 0px;
+background-color:#E7EAFD; } 
+
+  .image{
+    background-color: #F2F2F2;
+  }
+     .nice{
+          margin: 15px 15px;
+     }
+       
+     .hero{ margin: 30px;
+      display: flex;
+          justify-content: space-around;
+           gap: 250px;
+          
+          
+     }
+       .invest{
+           width: 200px;
+       }
+ 
+     
+ .items ul {  display: flex;
+     flex-direction: row;
+      list-style: none;
+             font-weight: bold;
+      gap: 20px;
+      cursor: pointer;
+      
+      
+ }
+ ul:hover{
+         color: blue;
+ }
+   .news{
+        display: flex;
+        justify-content: space-around;
+   }
+h1{
+        font-size: 70px;
+        font-weight: 600;
+        margin-bottom: 200px;
+}
+  h2{
+     width: 350px;
+  }  
