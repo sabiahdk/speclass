@@ -19,10 +19,27 @@ admittedPatient *= 2;
 console.log(admittedPatient);
 
 admittedPatient /= 5;
-console.log(admittedPatient)
+console.log(admittedPatient);
 
  admittedPatient %= 3;
  console.log(admittedPatient);
    
  admittedPatient ++;
- console.log(admittedPatient)
+ console.log(admittedPatient);
+
+ admittedPatient --;
+ console.log(admittedPatient);
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
