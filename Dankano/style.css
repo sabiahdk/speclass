@@ -115,7 +115,151 @@ button:hover{
            
    }
 .logo{
+        
+ 
+         h3{
+          width: 400px;
+          font-weight: 900;
+            font-size: 29px;
+        
+        
+        
+         }
+}
+
+
+
+@media (max-width : 768px) {
+
+
+body{margin: 0px;
+     padding: 0px;
+background-color:#E7EAFD; } 
+
+  .image{
+    background-color: #F2F2F2;
+    display: none;
+  }
+     .nice{
+          margin: 15px 15px;
+     }
+       
+     .hero{ margin: 30px;
+      display: flex;
+          justify-content: space-around;
+           gap: 250px;
+          
+          
+     }
+       .invest{
+           width: 200px;
+       }
+ 
      
+ .items ul {  display: flex;
+     flex-direction: row;
+      list-style: none;
+             font-weight: bold;
+      gap: 20px;
+      cursor: pointer;
+      
+      
+ }
+ ul:hover{
+         color: blue;
+ }
+   .news{
+        display: flex;
+       flex-wrap: wrap;
+        justify-content: space-around;
+   }
+h1{
+        font-size: 70px;
+        font-weight: 600;
+        margin-top: 200px;
+}
+  h2{
+     width: 350px;
+  }  
+
+
+  .latest{ 
+           align-content: center;
+           
+      h1{ padding-left: 280px;
+          font-weight: bolder;
+     }
+
+  }
+  .posts{ display: flex;
+         flex-wrap: wrap;
+        padding: 40px 40px;
+
+      img{ height: 390px;
+       width: 440px;
+  }
+      
+
+  }
+  
+  h2{ background-color: #F2F2F2;
+    font-size:40px;
+    font-weight:bold;
+    
+
+  }
+     .hero2{ display: flex;
+          flex-direction: column;
+
+
+     }
+   .map{
+      height: 550px;
+    width: 400px;
+    margin: 15px;
+
+   }
+
+   .ready{ 
+   
+    font-size: 40px;
+    font-weight: bold;
+    width: 350px;
+    
+   }
+   
+
+   .hero2{  background-color: white;
+       display: flex;
+       justify-content: space-around;
+   }
+    
+    button{
+          width: 300px;
+           background-color: blue; 
+          padding: 15px 15px;
+         color: white;
+         font-weight: bold;
+         border-radius: 20px;
+    }
+button:hover{
+    background-color: black;
+    color: white;
+}  
+   .footer{ 
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+          background-color: #000000;
+          color: white;
+
+           h3{
+                font-weight: bolder;
+           }
+           
+   }
+.logo{
+        
  
          h3{
           width: 400px;
@@ -130,6 +274,7 @@ button:hover{
 
 
 
+}
 
 
 
@@ -147,7 +292,7 @@ button:hover{
 
 
 
-@media ()
+
 
 
 
